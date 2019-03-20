@@ -40,7 +40,7 @@ var_dump($r2);
 var_dump($r3);
 var_dump($r4);
 
-
+// Arrays
 $a = [1,'edno',0.2,4];
 
 $b = [
